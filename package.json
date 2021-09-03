@@ -1,0 +1,21 @@
+{
+  "name": "deduplo",
+  "version": "1.0.0",
+  "description": "Duplicate image remover",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "author": "Maximilian Schulth",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "custom-electron-titlebar": "^3.2.7",
+    "electron": "^13.1.2",
+    "electron-packager": "^15.3.0",
+    "electron-titlebar-windows": "^3.0.0",
+    "socket.io-client": "^4.1.2"
+  }
+}
