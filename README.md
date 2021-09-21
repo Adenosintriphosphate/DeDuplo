@@ -1,4 +1,5 @@
-![DeDuplo Banner](/repo-images/banner.png)
+<p align="center"><img width=60% src="https://github.com/Adenosintriphosphate/DeDuplo/repo-images/banner.png"></p>
+
 DeDuplo is a tool to find duplicate images on your PC. 
 It uses hashing algorithms for a quick and reliable analysis of large image datasets.
 
